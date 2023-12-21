@@ -1,5 +1,7 @@
 # Pandas
 
+What is pandas.....?
+
 Pandas is a popular open-source data manipulation and analysis library for Python. It provides data structures for efficiently storing and manipulating large datasets, along with tools for reading and writing data in different formats. Pandas is particularly useful for tasks such as data cleaning, exploration, and analysis in fields like data science, machine learning, finance, and statistics.
 
 The two primary data structures in Pandas are:
@@ -16,5 +18,5 @@ To use Pandas in Python, you typically start by importing the library:
 import pandas as pd
 ```
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
